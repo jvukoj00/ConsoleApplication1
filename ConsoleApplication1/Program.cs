@@ -10,7 +10,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.WriteLine("Ivan Romac was here muahaha");
+            Console.WriteLine(" Ćaća was here muahaha");
             Console.Read();
             Console.WriteLine("ROMEO VELICANSTVENI");
             Console.WriteLine("caca se vraca!!!");
