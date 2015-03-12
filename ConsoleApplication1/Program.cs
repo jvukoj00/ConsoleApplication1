@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello World");
             Console.WriteLine(" Ćaća was here muahaha");
+            Console.WriteLine("nova promjena");
             Console.Read();
             Console.WriteLine("ROMEO VELICANSTVENI");
             Console.WriteLine("caca se vraca!!!");
